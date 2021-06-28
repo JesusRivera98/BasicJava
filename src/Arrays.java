@@ -23,10 +23,15 @@ public class Arrays {
         androidVersions[2] = "Cupcake";
         androidVersions[3] = "Donut";
 
-        System.out.println(androidVersions[0]);
+
+        for (int i = 0; i <= 3; i++) {
+            System.out.println(androidVersions[i]);
+        }
+
+        /*System.out.println(androidVersions[0]);
         System.out.println(androidVersions[1]);
         System.out.println(androidVersions[2]);
-        System.out.println(androidVersions[3]);
+        System.out.println(androidVersions[3]);*/
 
         System.out.println();
         System.out.println();
