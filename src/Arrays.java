@@ -24,7 +24,7 @@ public class Arrays {
         androidVersions[3] = "Donut";
 
 
-        for (int i = 0; i <= 3; i++) {
+        for (int i = 0; i < androidVersions.length; i++) {
             System.out.println(androidVersions[i]);
         }
 
