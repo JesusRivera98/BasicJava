@@ -2,7 +2,7 @@
   <artifact type="jar" name="HolaMundoJAva:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/HolaMundoJAva_jar</output-path>
     <root id="archive" name="HolaMundoJAva.jar">
-      <element id="module-output" name="HolaMundoJAva" />
+      <element id="module-output" name="HelloWorldJava" />
     </root>
   </artifact>
 </component>
