@@ -23,6 +23,10 @@ public class MathematicsOperations {
         //Circle area
         //PI * r2
         System.out.println(Math.PI * Math.pow(y, 2));
+        //System.out.println(Math.PI * Math.pow(5, 2));
+        //System.out.println(Math.PI * Math.pow(10, 2));
+        //System.out.println(Math.PI * Math.pow(1, 2));
+
 
         //Sphere area
         //4 * PI * r2
